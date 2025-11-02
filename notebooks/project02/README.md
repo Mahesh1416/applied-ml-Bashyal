@@ -10,10 +10,10 @@ In this project, we use the Titanic dataset — a pre-loaded dataset containing 
 It includes features such as passenger class, sex, age, fare, and survival status.
 
 This dataset provides an excellent opportunity to:
-- Practice handling missing data  
-- Explore relationships between features  
-- Engineer new variables  
-- Build and evaluate predictive models  
+- Learn how to handle missing data  
+- Build skills geared towards machine learning
+- Learn how to study the relationships between several factors
+- Build predictive models
 
 We aim to understand how these features may have influenced the survival outcomes of Titanic passengers.
 

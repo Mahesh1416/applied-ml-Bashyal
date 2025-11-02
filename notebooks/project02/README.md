@@ -15,7 +15,7 @@ This dataset provides an excellent opportunity to:
 - Learn how to study the relationships between several factors
 - Build predictive models
 
-We aim to understand how these features may have influenced the survival outcomes of Titanic passengers.
+Using this dataset we will try to understand how these features may have influenced the survival outcome of passengers aboard in the RMS Titanic.
 
 ---
 

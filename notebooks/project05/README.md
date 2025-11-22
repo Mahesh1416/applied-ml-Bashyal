@@ -39,13 +39,12 @@ ___
 ___
 
 ### Section 6. Compare Results
-1. Summarize Findings
 
-   
-   | Model               | Train Accuracy | Test Accuracy | Train F1  | Test F1  |
+| Model               | Train Accuracy | Test Accuracy | Train F1  | Test F1  |
 |--------------------|----------------|---------------|-----------|----------|
 | MLP Classifier      | 0.851446       | 0.843750      | 0.814145  | 0.807318 |
 | Bagging (DT, 100)   | 1.000000       | 0.884375      | 1.000000  | 0.865452 |
+
 
 
 ___

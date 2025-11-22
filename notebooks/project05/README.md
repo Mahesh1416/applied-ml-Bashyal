@@ -40,6 +40,8 @@ ___
 
 ### Section 6. Compare Results
 1. Summarize Findings
+
+   
    | Model               | Train Accuracy | Test Accuracy | Train F1  | Test F1  |
 |--------------------|----------------|---------------|-----------|----------|
 | MLP Classifier      | 0.851446       | 0.843750      | 0.814145  | 0.807318 |

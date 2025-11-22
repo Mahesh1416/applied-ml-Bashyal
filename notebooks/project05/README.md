@@ -40,14 +40,14 @@ ___
 
 ### Section 6. Compare Results
 1. Summarize Findings
-   | Model             | Train Accuracy | Test Accuracy | Train F1 | Test F1  |
-| ----------------- | -------------- | ------------- | -------- | -------- |
-| MLP Classifier    | 0.851446       | 0.843750      | 0.814145 | 0.807318 |
-| Bagging (DT, 100) | 1.000000       | 0.884375      | 1.000000 | 0.865452 |
+   | Model               | Train Accuracy | Test Accuracy | Train F1  | Test F1  |
+|--------------------|----------------|---------------|-----------|----------|
+| MLP Classifier      | 0.851446       | 0.843750      | 0.814145  | 0.807318 |
+| Bagging (DT, 100)   | 1.000000       | 0.884375      | 1.000000  | 0.865452 |
+
 
 ___
 
-### Section 7. Conclusions and Insights
 ### Section 7. Conclusions and Insights
 
 ### Based on the results from the confusion matrix for the Bagging Model,this model is strong when identifying "medium cases" but poor in identifying "low cases" and better at identifying high quality wines compared to MLP model. 

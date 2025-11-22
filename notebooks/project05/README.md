@@ -3,7 +3,7 @@
 
 ## Introduction
 
-In this project,we will use wine quality dataset to compare two ensemble models to evaluate their model performance. We will compare two models, Bagging and MLP classifier model based on accuracy and F1 scores to predict which will perform better with this dataset. 
+In this project,we will use wine quality dataset to compare two ensemble models to evaluate their model performance. We will compare two models, Bagging and MLP classifier model to predict which will perform better with this dataset based on accuracy and F scores.
 ___
 
 ## Steps Involved
